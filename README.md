@@ -1,19 +1,16 @@
-# Assignment Name: Temyd-Baby-Step-in-Data-Analysis
+# Assignment name: Temyd-Baby-Step-in-Data-Analysis
 
-----
+-----
 # Project Objetive: Problem Statement
 
 
-
-----
-# Data Sourcing
-
+-----
+# Data sourcing
 
 
 ----
 # Data transformation
 
 
-
-----
-# Findings and Reccommendation
+-----
+# Findings and Recommendation
